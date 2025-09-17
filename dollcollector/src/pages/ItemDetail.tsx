@@ -16,7 +16,7 @@ const ItemDetail = () => {
   const [item, setItem] = useState<Item | null>(null);
 
   useEffect(() => {
-    fetch("/data.json")
+    fetch("/dollcollector/data.json")
       .then((res) => res.json())
       .then((data: Item[]) => {
         const found = data.find((i) => i.id === id);
