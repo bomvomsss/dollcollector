@@ -1,0 +1,128 @@
+[
+  {
+    "id": "day6_bang",
+    "title": "방",
+    "thumbnail": "/images/day6_bang.jpg",
+    "group": "Day6",
+    "sort": "데니멀즈",
+    "member": "성진",
+    "description": "데니멀즈라는 이름의 인형들 중 데이식스 멤버 성진의 인형이다. 데니멀즈는 출시 후 매 년 다른 외형(표정, 이목구비 비율 등)으로 나와 팬들 사이에서 연도 별 버전으로 나뉘어 구별된다. 다른 멤버들의 것과 달리 속눈썹이 그려져있는 것이 특징이다. 다른 멤버들의 인형들에 비해 비교적 동글동글해서 옷을 입히기에 적합한 편이다."
+  },
+  {
+    "id": "day6_ke",
+    "title": "케",
+    "thumbnail": "/images/day6_ke.jpg",
+    "group": "Day6",
+    "sort": "데니멀즈",
+    "member": "영케이",
+    "description": "데니멀즈라는 이름의 인형들 중 데이식스 멤버 영케이의 인형이다. 데니멀즈는 출시 후 매 년 다른 외형(표정, 이목구비 비율 등)으로 나와 팬들 사이에서 연도 별 버전으로 나뉘어 구별된다. '케'는 2022년 버전에서 본체 영케이의 특징인 귀에 점 2개가 추가되었다."
+  },
+  {
+    "id": "day6_pil",
+    "title": "필",
+    "thumbnail": "/images/day6_pil.jpg",
+    "group": "Day6",
+    "sort": "데니멀즈",
+    "member": "원필",
+    "description": "데니멀즈라는 이름의 인형들 중 데이식스 멤버 원필의 인형이다. 데니멀즈는 출시 후 매 년 다른 외형(표정, 이목구비 비율 등)으로 나와 팬들 사이에서 연도 별 버전으로 나뉘어 구별된다. '필'은 '필끼'라는 별명을 갖고 있다. 귀여운 외형과는 달리 다소 무서운 인상이라는 평도 있다. 2024년 버전에 앞니가 추가되었다."
+  },
+  {
+    "id": "day6_don",
+    "title": "돈",
+    "thumbnail": "/images/day6_don.jpg",
+    "group": "Day6",
+    "sort": "데니멀즈",
+    "member": "도운",
+    "description": "데니멀즈라는 이름의 인형들 중 데이식스 멤버 도운의 인형이다. 데니멀즈는 출시 후 매 년 다른 외형(표정, 이목구비 비율 등)으로 나와 팬들 사이에서 연도 별 버전으로 나뉘어 구별된다. '돈'의 경우, 2020 버전에서 이목구비 비율의 참사로 '돈구라'라는 별명을 얻기도 했었다. '케'와 마찬가지로 2022년 버전에서 본체 도운의 특징인 눈 밑의 점이 추가되었다."
+  },
+  {
+    "id": "mx_baetong",
+    "title": "배통이",
+    "thumbnail": "/images/mx_baetong.jpg",
+    "group": "MONSTA X",
+    "sort": "몬뭉치엑스",
+    "member": "셔누",
+    "description": "황새 탈을 쓰고 있는 반달가슴곰 인형이다. 강렬한 눈매와 부리의 황새 얼굴이 특징이다. 평소 뱁새로 모에화 되는데, 뱁새가 황새가 되고싶어한다는 점에서 고안하여 황새옷을 입혔다고 한다. 팬들은 대왕배통이 라고 부른다."
+  },
+  {
+    "id": "mx_mungkko",
+    "title": "멍꼬",
+    "thumbnail": "/images/mx_mungkko.jpg",
+    "group": "MONSTA X",
+    "sort": "몬뭉치엑스",
+    "member": "민혁",
+    "description": "고래 옷을 입은 하얀 강아지 인형이다. 민혁이 직접 디자인 한 인형이다."
+  },
+  {
+    "id": "mx_hamsharksgg",
+    "title": "햄상슥",
+    "thumbnail": "/images/mx_hamsharkssg.jpg",
+    "group": "MONSTA X",
+    "sort": "몬뭉치엑스",
+    "member": "기현",
+    "description": "상어 탈을 쓰고 있는 햄스터 인형이다. 본명(상품명)은 '햄상이&햄슥이'이지만 팬들은 햄상슥이라 부른다. 해바라기 씨를 품에 소중하게 안고 있다."
+  },
+  {
+    "id": "mx_chaeboogi",
+    "title": "채부기",
+    "thumbnail": "/images/mx_chaeboogi.jpg",
+    "group": "MONSTA X",
+    "sort": "몬뭉치엑스",
+    "member": "형원",
+    "description": "개구리 모자를 쓰고 있는 거북이 인형. 다른 인형들과 달리 앉아있는 모습을 하고 있다. 선글라스도 따로 분리되는 형태이다. 모자를 벗기면 압도적인 동그라미 두상을 뽐내는 것이 특징."
+  },
+  {
+    "id": "mx_manraeng",
+    "title": "만랭이",
+    "thumbnail": "/images/mx_manraeng.jpg",
+    "group": "MONSTA X",
+    "sort": "몬뭉치엑스",
+    "member": "주헌",
+    "description": "하얗고 말랑한 만두가 호랑이 탈을 쓰고 있는 인형. 호랑이 탈을 벗겼을 때 안 쪽의 머리가 만두 꼭지 모양인 것이 귀여움 포인트. 유달리 말랑한 것이 특징이다."
+  },
+  {
+    "id": "mx_nyanggyun",
+    "title": "냥균이",
+    "thumbnail": "/images/mx_nyangyun.jpg",
+    "group": "MONSTA X",
+    "sort": "몬뭉치엑스",
+    "member": "아이엠",
+    "description": "검은 고양이가 아이엠의 본가에서 같이 사는 '루시'라는 강아지의 모습을 한 모자를 쓰고 있다. 목에 방울이 달려있다."
+  },
+  {
+    "id": "mx_hamssg_mini",
+    "title": "햄슥이 미니",
+    "thumbnail": "/images/mx_hamssg.jpg",
+    "group": "MONSTA X",
+    "sort": "몬뭉치엑스",
+    "member": "기현",
+    "description": "팬들의 햄스터 모에화를 받아들여 햄스터 모습을 한 인형을 만들었다. 뽀글한 털이 특징이다. 햄상슥 ver.2가 나오며 자취를 감추었다."
+  },
+  {
+    "id": "mx_hamshark_mini",
+    "title": "햄상이 미니",
+    "thumbnail": "/images/mx_hamshark.jpg",
+    "group": "MONSTA X",
+    "sort": "몬뭉치엑스",
+    "member": "기현",
+    "description": "팬들의 수많은 햄스터 모에화와 달리 포기하지 않고 기현의 추구미인 상어 모습을 한 인형도 만들었다. 햄상슥 ver.2가 나오며 자취를 감추었다."
+  },
+  {
+    "id": "mx_hamsharkssg_mini",
+    "title": "햄상슥 미니 ver.1",
+    "thumbnail": "/images/mx_hamsharkssg_ver1.jpg",
+    "group": "MONSTA X",
+    "sort": "몬뭉치엑스",
+    "member": "기현",
+    "description": "상어 탈을 쓰고 있는 햄스터 인형이다. 미니 멍꼬와 다르게 탈과 본체가 일체형이며, 탈도 뽀글털이다. 본명(상품명)은 '햄상이&햄슥이'이지만 팬들은 햄상슥이라 부른다."
+  },
+  {
+    "id": "mx_hamsharkssg_mini2",
+    "title": "햄상슥 미니 ver.2",
+    "thumbnail": "/images/mx_hamsharkssg_ver2.jpg",
+    "group": "MONSTA X",
+    "sort": "몬뭉치엑스",
+    "member": "기현",
+    "description": "상어 탈을 쓰고 있는 햄스터 인형이다.  본명(상품명)은 '햄상이&햄슥이'이지만 팬들은 햄상슥이라 부른다. ver.1과 달라진 점은 본체와 탈이 분리가 되는 것인데, 다른 멤버들의 인형과 다르게 탈을 고정시키는 부분이 없고 밑이 뻥 뚫린 형태라 그냥 쑥 빠져버린다. 본체는 ver.2의 탄생으로 사라진 햄슥이 인형과 똑같이 생겼으나, 크기가 조금 작다."
+  }
+]

@@ -1,0 +1,24 @@
+#items {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+.item {
+  border: 5px solid #a8dfda;
+  box-sizing: border-box;
+  border-radius: 10px;
+  padding: 30px;
+  width: 300px;
+}
+.title {
+  font-size: 18px;
+}
+.thumbnail {
+  width: 40%;
+  height: 145px;
+  margin: 0 auto;
+}
+.thumbnail img {
+  width: 100%;
+}
