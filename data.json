@@ -2,7 +2,7 @@
   {
     "id": "day6_bang",
     "title": "방",
-    "thumbnail": "/images/day6_bang.jpg",
+    "thumbnail": "/dollcollector/images/day6_bang.jpg",
     "group": "Day6",
     "sort": "데니멀즈",
     "member": "성진",
@@ -11,7 +11,7 @@
   {
     "id": "day6_ke",
     "title": "케",
-    "thumbnail": "/images/day6_ke.jpg",
+    "thumbnail": "/dollcollector/images/day6_ke.jpg",
     "group": "Day6",
     "sort": "데니멀즈",
     "member": "영케이",
@@ -20,7 +20,7 @@
   {
     "id": "day6_pil",
     "title": "필",
-    "thumbnail": "/images/day6_pil.jpg",
+    "thumbnail": "/dollcollector/images/day6_pil.jpg",
     "group": "Day6",
     "sort": "데니멀즈",
     "member": "원필",
@@ -29,7 +29,7 @@
   {
     "id": "day6_don",
     "title": "돈",
-    "thumbnail": "/images/day6_don.jpg",
+    "thumbnail": "/dollcollector/images/day6_don.jpg",
     "group": "Day6",
     "sort": "데니멀즈",
     "member": "도운",
@@ -38,7 +38,7 @@
   {
     "id": "mx_baetong",
     "title": "배통이",
-    "thumbnail": "/images/mx_baetong.jpg",
+    "thumbnail": "/dollcollector/images/mx_baetong.jpg",
     "group": "MONSTA X",
     "sort": "몬뭉치엑스",
     "member": "셔누",
@@ -47,7 +47,7 @@
   {
     "id": "mx_mungkko",
     "title": "멍꼬",
-    "thumbnail": "/images/mx_mungkko.jpg",
+    "thumbnail": "/dollcollector/images/mx_mungkko.jpg",
     "group": "MONSTA X",
     "sort": "몬뭉치엑스",
     "member": "민혁",
@@ -56,7 +56,7 @@
   {
     "id": "mx_hamsharksgg",
     "title": "햄상슥",
-    "thumbnail": "/images/mx_hamsharkssg.jpg",
+    "thumbnail": "/dollcollector/images/mx_hamsharkssg.jpg",
     "group": "MONSTA X",
     "sort": "몬뭉치엑스",
     "member": "기현",
@@ -65,7 +65,7 @@
   {
     "id": "mx_chaeboogi",
     "title": "채부기",
-    "thumbnail": "/images/mx_chaeboogi.jpg",
+    "thumbnail": "/dollcollector/images/mx_chaeboogi.jpg",
     "group": "MONSTA X",
     "sort": "몬뭉치엑스",
     "member": "형원",
@@ -74,7 +74,7 @@
   {
     "id": "mx_manraeng",
     "title": "만랭이",
-    "thumbnail": "/images/mx_manraeng.jpg",
+    "thumbnail": "/dollcollector/images/mx_manraeng.jpg",
     "group": "MONSTA X",
     "sort": "몬뭉치엑스",
     "member": "주헌",
@@ -83,7 +83,7 @@
   {
     "id": "mx_nyanggyun",
     "title": "냥균이",
-    "thumbnail": "/images/mx_nyangyun.jpg",
+    "thumbnail": "/dollcollector/images/mx_nyangyun.jpg",
     "group": "MONSTA X",
     "sort": "몬뭉치엑스",
     "member": "아이엠",
@@ -92,7 +92,7 @@
   {
     "id": "mx_hamssg_mini",
     "title": "햄슥이 미니",
-    "thumbnail": "/images/mx_hamssg.jpg",
+    "thumbnail": "/dollcollector/images/mx_hamssg.jpg",
     "group": "MONSTA X",
     "sort": "몬뭉치엑스",
     "member": "기현",
@@ -101,7 +101,7 @@
   {
     "id": "mx_hamshark_mini",
     "title": "햄상이 미니",
-    "thumbnail": "/images/mx_hamshark.jpg",
+    "thumbnail": "/dollcollector/images/mx_hamshark.jpg",
     "group": "MONSTA X",
     "sort": "몬뭉치엑스",
     "member": "기현",
@@ -110,7 +110,7 @@
   {
     "id": "mx_hamsharkssg_mini",
     "title": "햄상슥 미니 ver.1",
-    "thumbnail": "/images/mx_hamsharkssg_ver1.jpg",
+    "thumbnail": "/dollcollector/images/mx_hamsharkssg_ver1.jpg",
     "group": "MONSTA X",
     "sort": "몬뭉치엑스",
     "member": "기현",
@@ -119,7 +119,7 @@
   {
     "id": "mx_hamsharkssg_mini2",
     "title": "햄상슥 미니 ver.2",
-    "thumbnail": "/images/mx_hamsharkssg_ver2.jpg",
+    "thumbnail": "/dollcollector/images/mx_hamsharkssg_ver2.jpg",
     "group": "MONSTA X",
     "sort": "몬뭉치엑스",
     "member": "기현",
@@ -128,7 +128,7 @@
   {
     "id": "bnd_catppi",
     "title": "캣삐",
-    "thumbnail": "/images/bnd_catppi.jpg",
+    "thumbnail": "/dollcollector/images/bnd_catppi.jpg",
     "group": "보이넥스트도어",
     "sort": "쁘넥도",
     "member": "성호",
@@ -137,7 +137,7 @@
   {
     "id": "bnd_darling",
     "title": "달링",
-    "thumbnail": "/images/bnd_darling.jpg",
+    "thumbnail": "/dollcollector/images/bnd_darling.jpg",
     "group": "보이넥스트도어",
     "sort": "쁘넥도",
     "member": "리우",
@@ -146,7 +146,7 @@
   {
     "id": "bnd_myungmyung",
     "title": "명명",
-    "thumbnail": "/images/bnd_myungmyung.jpg",
+    "thumbnail": "/dollcollector/images/bnd_myungmyung.jpg",
     "group": "보이넥스트도어",
     "sort": "쁘넥도",
     "member": "명재현",
@@ -155,7 +155,7 @@
   {
     "id": "bnd_hantadpoong",
     "title": "한탯풍",
-    "thumbnail": "/images/bnd_hantadpoong.jpg",
+    "thumbnail": "/dollcollector/images/bnd_hantadpoong.jpg",
     "group": "보이넥스트도어",
     "sort": "쁘넥도",
     "member": "한태산",
@@ -164,7 +164,7 @@
   {
     "id": "bnd_312",
     "title": "312(삼한이)",
-    "thumbnail": "/images/bnd_312.jpg",
+    "thumbnail": "/dollcollector/images/bnd_312.jpg",
     "group": "보이넥스트도어",
     "sort": "쁘넥도",
     "member": "이한",
@@ -173,7 +173,7 @@
   {
     "id": "bnd_woonagi",
     "title": "운아기",
-    "thumbnail": "/images/bnd_woonagi.jpg",
+    "thumbnail": "/dollcollector/images/bnd_woonagi.jpg",
     "group": "보이넥스트도어",
     "sort": "쁘넥도",
     "member": "운학",
@@ -182,7 +182,7 @@
   {
     "id": "bnd_woonagi",
     "title": "운아기",
-    "thumbnail": "/images/bnd_woonagi.jpg",
+    "thumbnail": "/dollcollector/images/bnd_woonagi.jpg",
     "group": "보이넥스트도어",
     "sort": "쁘넥도",
     "member": "운학",
@@ -191,7 +191,7 @@
   {
     "id": "nct127_johnycal",
     "title": "쟈니칼",
-    "thumbnail": "/images/nct127_johnycal.jpg",
+    "thumbnail": "/dollcollector/images/nct127_johnycal.jpg",
     "group": "NCT127",
     "sort": "솜뭉칠",
     "member": "쟈니",
@@ -200,7 +200,7 @@
   {
     "id": "nct127_cherryjjang",
     "title": "체리짱",
-    "thumbnail": "/images/nct127_cherryjjang.jpg",
+    "thumbnail": "/dollcollector/images/nct127_cherryjjang.jpg",
     "group": "NCT127",
     "sort": "솜뭉칠",
     "member": "유타",
@@ -209,7 +209,7 @@
   {
     "id": "nct127_dogoonpang",
     "title": "도궁빵",
-    "thumbnail": "/images/nct127_dogoonpang.jpg",
+    "thumbnail": "/dollcollector/images/nct127_dogoonpang.jpg",
     "group": "NCT127",
     "sort": "솜뭉칠",
     "member": "도영",
@@ -218,7 +218,7 @@
   {
     "id": "nct127_busydog",
     "title": "비지독",
-    "thumbnail": "/images/nct127_busydog.jpg",
+    "thumbnail": "/dollcollector/images/nct127_busydog.jpg",
     "group": "NCT127",
     "sort": "솜뭉칠",
     "member": "정우",
@@ -227,7 +227,7 @@
   {
     "id": "nct127_coongi",
     "title": "크옹이",
-    "thumbnail": "/images/nct127_coongi.jpg",
+    "thumbnail": "/dollcollector/images/nct127_coongi.jpg",
     "group": "NCT127",
     "sort": "솜뭉칠",
     "member": "마크",
@@ -236,7 +236,7 @@
   {
     "id": "nct127_haepoo",
     "title": "해푸",
-    "thumbnail": "/images/nct127_haepoo.jpg",
+    "thumbnail": "/dollcollector/images/nct127_haepoo.jpg",
     "group": "NCT127",
     "sort": "솜뭉칠",
     "member": "해찬",
