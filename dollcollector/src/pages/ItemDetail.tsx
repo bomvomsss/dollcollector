@@ -28,12 +28,14 @@ const ItemDetail = () => {
 
   return (
     <div>
-      <h2>{item.title}</h2>
       <img src={item.thumbnail} alt={item.title} />
-      <p>그룹: {item.group}</p>
-      <p>멤버: {item.member}</p>
-      <p>종류: {item.sort}</p>
-      <p>{item.description}</p>
+      <div className='contents'>
+        <h2>{item.title}</h2>
+        <p>그룹: {item.group}</p>
+        <p>멤버: {item.member}</p>
+        <p>종류: {item.sort}</p>
+        <p>{item.description}</p>
+      </div>
     </div>
   );
 };

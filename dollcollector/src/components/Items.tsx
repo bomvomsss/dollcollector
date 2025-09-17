@@ -29,9 +29,18 @@ function Items() {
             <img src={item.thumbnail} alt={item.title} />
           </div>
           <div className='contents'>
-            <p className='group'>{item.group}</p>
-            <p className='sort'>{item.sort}</p>
-            <p className='member'>{item.member}</p>
+            <p className='group'>
+              <span>그룹 : </span>
+              {item.group}
+            </p>
+            <p className='sort'>
+              <span>명칭 : </span>
+              {item.sort}
+            </p>
+            <p className='member'>
+              <span>멤버 : </span>
+              {item.member}
+            </p>
           </div>
         </Link>
       ))}
