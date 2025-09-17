@@ -5,7 +5,4 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   base: "./",
-  build: {
-    outDir: "../../", // 레포지토리 루트로 빌드
-  },
 });
