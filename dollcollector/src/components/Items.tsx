@@ -15,7 +15,7 @@ function Items() {
   const [items, setItems] = useState<Item[]>([]);
 
   useEffect(() => {
-    fetch("/data.json")
+    fetch("/dollcollector/data.json")
       .then((res) => res.json())
       .then((data) => setItems(data));
   }, []);
