@@ -27,14 +27,23 @@ const ItemDetail = () => {
   if (!item) return <div>데이터를 찾을 수 없습니다.</div>;
 
   return (
-    <div>
-      <img src={item.thumbnail} alt={item.title} />
+    <div className='detail-wrap'>
+      <h2 className='name'>{item.title}</h2>
+
+      <div className='main-image'>
+        <img src={item.thumbnail} alt={item.title} />
+      </div>
       <div className='contents'>
-        <h2>{item.title}</h2>
-        <p>그룹: {item.group}</p>
-        <p>멤버: {item.member}</p>
-        <p>종류: {item.sort}</p>
-        <p>{item.description}</p>
+        <p>
+          <span>그룹</span> : {item.group}
+        </p>
+        <p>
+          <span>멤버</span> : {item.member}
+        </p>
+        <p>
+          <span>종류</span> : {item.sort}
+        </p>
+        <p className='description'>{item.description}</p>
       </div>
     </div>
   );

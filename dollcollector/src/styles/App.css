@@ -1,24 +1,8 @@
-h1 {
-  font-size: 26px;
-  font-weight: 700;
-  padding: 50px;
-  position: relative;
-  z-index: 1;
-}
 .body-wrap {
-  position: relative;
-  background: #ffc2c2;
-  overflow: hidden;
-}
-
-.body-wrap::before {
-  content: "";
-  position: absolute;
-  background: url("../assets/images/background/heart_line.png") repeat;
-  background-size: 50px 50px;
-  background-position: 0 0;
-  opacity: 0.5;
-  z-index: 0;
-  width: 100%;
-  height: 100%;
+  background: #d3ebff url("../assets/images/background/heart_line.png") repeat 0
+    0/ 50px 50px;
+  overflow-x: hidden;
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
 }

@@ -1,9 +1,10 @@
 import Items from "../components/Items";
+import Header from "../components/Header";
 
 const Main = () => {
   return (
     <>
-      <h1>✨돌돌도감✨</h1>
+      <Header />
       <Items />
     </>
   );

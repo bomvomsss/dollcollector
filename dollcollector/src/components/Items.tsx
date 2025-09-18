@@ -20,29 +20,46 @@ function Items() {
       .then((data) => setItems(data));
   }, []);
 
+  // 그룹별로 아이템 분류
+  const groupedItems = items.reduce<{ [key: string]: Item[] }>((acc, item) => {
+    if (!acc[item.group]) acc[item.group] = [];
+    acc[item.group].push(item);
+    return acc;
+  }, {});
+  // 그룹명을 가나다 순으로 정렬
+  const sortedGroups = Object.keys(groupedItems).sort((a, b) =>
+    a.localeCompare(b, "ko")
+  );
   return (
     <div id='items'>
-      {items.map((item, idx) => (
-        <Link to={`/item/${item.id}`} key={idx} className='item'>
-          <p className='title'>{item.title}</p>
-          <div className='thumbnail'>
-            <img src={item.thumbnail} alt={item.title} />
+      {sortedGroups.map((group) => (
+        <div className='group-wrap' key={group}>
+          <h2>{group}</h2>
+          <div className='flex-box'>
+            {groupedItems[group].map((item) => (
+              <Link to={`/item/${item.id}`} key={item.id} className='item'>
+                <p className='title'>{item.title}</p>
+                <div className='thumbnail'>
+                  <img src={item.thumbnail} alt={item.title} />
+                </div>
+                <div className='contents'>
+                  <p className='group'>
+                    <span>그룹 : </span>
+                    {item.group}
+                  </p>
+                  <p className='sort'>
+                    <span>명칭 : </span>
+                    {item.sort}
+                  </p>
+                  <p className='member'>
+                    <span>멤버 : </span>
+                    {item.member}
+                  </p>
+                </div>
+              </Link>
+            ))}
           </div>
-          <div className='contents'>
-            <p className='group'>
-              <span>그룹 : </span>
-              {item.group}
-            </p>
-            <p className='sort'>
-              <span>명칭 : </span>
-              {item.sort}
-            </p>
-            <p className='member'>
-              <span>멤버 : </span>
-              {item.member}
-            </p>
-          </div>
-        </Link>
+        </div>
       ))}
     </div>
   );
