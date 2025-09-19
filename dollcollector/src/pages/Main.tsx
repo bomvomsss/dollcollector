@@ -1,11 +1,11 @@
 import Items from "../components/Items";
-import Header from "../components/Header";
-
-const Main = () => {
+interface MainProps {
+  search: string;
+}
+const Main = ({ search }: MainProps) => {
   return (
     <>
-      <Header />
-      <Items />
+      <Items search={search} />
     </>
   );
 };

@@ -9,3 +9,33 @@ h1 {
   position: relative;
   z-index: 1;
 }
+.select-box {
+  display: flex;
+  width: 40%;
+}
+.search {
+  display: flex;
+  justify-content: flex-end;
+  gap: 5px;
+  width: 60%;
+}
+.search input {
+  width: 60%;
+  background: none;
+  border: none;
+  border-bottom: 1px solid #000;
+  font-size: 18px;
+}
+.search button {
+  border: none;
+  background: none;
+  font-size: 18px;
+}
+@media (max-width: 768px) and (orientation: portrait) {
+  #header {
+    padding: 10vw 8vw;
+  }
+  .search {
+    width: 150px;
+  }
+}

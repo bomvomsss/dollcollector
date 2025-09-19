@@ -10,8 +10,11 @@ interface Item {
   sort: string;
   member: string;
 }
+interface ItemProps {
+  search: string;
+}
 
-function Items() {
+function Items({ search }: ItemProps) {
   const [items, setItems] = useState<Item[]>([]);
 
   useEffect(() => {
@@ -20,12 +23,24 @@ function Items() {
       .then((data) => setItems(data));
   }, []);
 
+  // 검색어로 필터링
+  const filteredItems = items.filter(
+    (item) =>
+      item.title.includes(search) ||
+      item.group.includes(search) ||
+      item.sort.includes(search) ||
+      item.member.includes(search)
+  );
+
   // 그룹별로 아이템 분류
-  const groupedItems = items.reduce<{ [key: string]: Item[] }>((acc, item) => {
-    if (!acc[item.group]) acc[item.group] = [];
-    acc[item.group].push(item);
-    return acc;
-  }, {});
+  const groupedItems = filteredItems.reduce<{ [key: string]: Item[] }>(
+    (acc, item) => {
+      if (!acc[item.group]) acc[item.group] = [];
+      acc[item.group].push(item);
+      return acc;
+    },
+    {}
+  );
   // 그룹명을 가나다 순으로 정렬
   const sortedGroups = Object.keys(groupedItems).sort((a, b) =>
     a.localeCompare(b, "ko")
