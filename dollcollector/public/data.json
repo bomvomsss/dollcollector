@@ -340,5 +340,59 @@
     "sort": "",
     "member": "앤톤",
     "description": ""
+  },
+  {
+    "id": "nmixx_dandelion",
+    "title": "단델리온",
+    "thumbnail": "/dollcollector/images/nmixx_dandelion.jpg",
+    "group": "엔믹스",
+    "sort": "",
+    "member": "릴리",
+    "description": ""
+  },
+  {
+    "id": "nmixx_gacksunghae",
+    "title": "각성해",
+    "thumbnail": "/dollcollector/images/nmixx_gacksunghae.jpg",
+    "group": "엔믹스",
+    "sort": "",
+    "member": "해원",
+    "description": ""
+  },
+  {
+    "id": "nimxx_seolready",
+    "title": "설레디",
+    "thumbnail": "/dollcollector/images/nimxx_seolready.jpg",
+    "group": "엔믹스",
+    "sort": "",
+    "member": "설윤",
+    "description": ""
+  },
+  {
+    "id": "nimxx_woolbyo",
+    "title": "울뵤",
+    "thumbnail": "/dollcollector/images/nimxx_woolbyo.jpg",
+    "group": "엔믹스",
+    "sort": "",
+    "member": "배이",
+    "description": ""
+  },
+  {
+    "id": "nimxx_jjorot",
+    "title": "쭈롯",
+    "thumbnail": "/dollcollector/images/nimxx_jjorot.jpg",
+    "group": "엔믹스",
+    "sort": "",
+    "member": "지우",
+    "description": ""
+  },
+  {
+    "id": "nimxx_gogyunyang",
+    "title": "고규냥",
+    "thumbnail": "/dollcollector/images/nimxx_gogyunyang.jpg",
+    "group": "엔믹스",
+    "sort": "",
+    "member": "규진",
+    "description": ""
   }
 ]
