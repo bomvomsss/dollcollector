@@ -58,16 +58,16 @@ function Items({ search }: ItemProps) {
                   <img src={item.thumbnail} alt={item.title} />
                 </div>
                 <div className='contents'>
-                  <p className='group'>
+                  {/* <p className='group'>
                     <span>그룹 : </span>
                     {item.group}
-                  </p>
+                  </p> */}
                   <p className='sort'>
-                    <span>명칭 : </span>
+                    {/* <span>명칭 : </span> */}
                     {item.sort}
                   </p>
                   <p className='member'>
-                    <span>멤버 : </span>
+                    {/* <span>멤버 : </span> */}
                     {item.member}
                   </p>
                 </div>

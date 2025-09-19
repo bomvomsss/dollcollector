@@ -40,9 +40,7 @@ const ItemDetail = () => {
         <p>
           <span>멤버</span> : {item.member}
         </p>
-        <p>
-          <span>종류</span> : {item.sort}
-        </p>
+        <p className='sort'>{item.sort}</p>
         <p className='description'>{item.description}</p>
       </div>
     </div>

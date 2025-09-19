@@ -1,0 +1,27 @@
+#footer {
+  padding: 100px 50px;
+}
+.help-form {
+  animation: gradient-font 2s linear infinite;
+  font-size: 20px;
+  text-shadow: 1px 1px black;
+  line-height: 1.5;
+  text-underline-offset: 5px;
+}
+@keyframes gradient-font {
+  0% {
+    color: #ff0000;
+  }
+  30% {
+    color: #00ff00;
+  }
+  50% {
+    color: #0000ff;
+  }
+  70% {
+    color: #ffd900;
+  }
+  100% {
+    color: #ff0000;
+  }
+}

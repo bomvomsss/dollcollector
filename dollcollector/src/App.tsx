@@ -4,6 +4,7 @@ import Main from "./pages/Main";
 import { Routes, Route } from "react-router-dom";
 import Header from "./components/Header";
 import { useState } from "react";
+import Footer from "./components/Footer";
 
 function App() {
   const [search, setSearch] = useState("");
@@ -15,6 +16,7 @@ function App() {
         <Route path='/' element={<Main search={search} />}></Route>
         <Route path='/item/:id' element={<ItemDetail />}></Route>
       </Routes>
+      <Footer />
     </div>
   );
 }

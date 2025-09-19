@@ -1,3 +1,15 @@
+@font-face {
+  font-family: "RoundedFixedsys";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/DungGeunMo.woff")
+    format("woff");
+  font-weight: normal;
+  font-display: swap;
+}
+html,
+input,
+button {
+  font-family: "RoundedFixedsys", "Bitstream Vera Serif", serif;
+}
 .body-wrap {
   background: #d3ebff url("../assets/images/background/heart_line.png") repeat 0
     0/ 50px 50px;
@@ -5,4 +17,6 @@
   width: 100vw;
   height: 100vh;
   box-sizing: border-box;
+  position: relative;
+  z-index: 0;
 }
