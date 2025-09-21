@@ -394,5 +394,41 @@
     "sort": "",
     "member": "규진",
     "description": ""
+  },
+  {
+    "id": "aespa_karangi",
+    "title": "카랑이",
+    "thumbnail": "/dollcollector/images/aespa_karangi.jpg",
+    "group": "에스파",
+    "sort": "",
+    "member": "카리나",
+    "description": ""
+  },
+  {
+    "id": "aespa_jelbolnyangi",
+    "title": "젤볼냥이",
+    "thumbnail": "/dollcollector/images/aespa_jelbolnyangi.jpg",
+    "group": "에스파",
+    "sort": "",
+    "member": "지젤",
+    "description": ""
+  },
+  {
+    "id": "aespa_moongtaengi",
+    "title": "뭉댕이",
+    "thumbnail": "/dollcollector/images/aespa_ moongtaengi.jpg",
+    "group": "에스파",
+    "sort": "",
+    "member": "윈터",
+    "description": "버블에서 뭉탱이 제작 일화를 풀어놓은 적이 있다. 윈터가 직접 그린 거라 '내가 뭉탱이 엄마야 ㅜㅜㅠㅠㅠㅠ!!!!!'라고 말하기도 했다. 머리 위에는 꼬질함을 표현했는데 #으로 그려졌고, 모자를 표현한 게 큐브치즈케익같고 귀엽다며 비하인드를 전했다. 그저 꼬질함을 그렸을 뿐인데 '#'이 뭉탱이의 시그니처가 되었다는 사실을 재미있어하는 듯 하다. 그물망에 오래 앉아있어서 자국난 것 같아, 메론빵에 앉아있었던 걸로 하자, 머리는 메론빵을 베고 잤던걸로 하자 등 귀여운 설정들을 덧입혀주었다."
+  },
+  {
+    "id": "aespa_rwae",
+    "title": "뤠",
+    "thumbnail": "/dollcollector/images/aespa_rwae.jpg",
+    "group": "에스파",
+    "sort": "",
+    "member": "닝닝",
+    "description": ""
   }
 ]
