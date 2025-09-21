@@ -55,7 +55,7 @@ function Items({ search }: ItemProps) {
               <Link to={`/item/${item.id}`} key={item.id} className='item'>
                 <p className='title'>{item.title}</p>
                 <div className='thumbnail'>
-                  <img src={item.thumbnail} alt={item.title} />
+                  <img src={item.thumbnail} alt={`인형 사진` + item.title} />
                 </div>
                 <div className='contents'>
                   {/* <p className='group'>
