@@ -19,6 +19,7 @@ h1 {
   background: none;
   font-size: 20px;
   cursor: pointer;
+  color: #000;
 }
 .search {
   display: flex;
@@ -80,6 +81,7 @@ h1 {
   background: none;
   font-size: 20px;
   cursor: pointer;
+  color: #000;
 }
 .tooltip-popup p {
   line-height: 1.3;

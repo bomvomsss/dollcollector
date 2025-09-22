@@ -50,7 +50,7 @@ function Items({ search }: ItemProps) {
       {sortedGroups.map((group) => (
         <div className='group-wrap' key={group}>
           <h2>
-            {group}{" "}
+            {group}
             {/* <span className='sort'>
               {groupedItems[group][0].sort
                 ? ` (${groupedItems[group][0].sort})`

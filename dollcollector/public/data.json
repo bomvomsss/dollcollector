@@ -81,9 +81,9 @@
     "description": "하얗고 말랑한 만두가 호랑이 탈을 쓰고 있는 인형. 호랑이 탈을 벗겼을 때 안 쪽의 머리가 만두 꼭지 모양인 것이 귀여움 포인트. 유달리 말랑한 것이 특징이다. 몬뭉치엑스는 일반, 미니, 미니미니가 있는데 일반이 대왕으로 불리고 미니가 일반인 것 처럼 불리고 있다. 대왕과 미니(일반)은 디자인이 동일하다."
   },
   {
-    "id": "mx_nyanggyun",
+    "id": "mx_nyangkyun",
     "title": "냥균이",
-    "thumbnail": "/dollcollector/images/mx_nyangyun.jpg",
+    "thumbnail": "/dollcollector/images/mx_nyangkyun.jpg",
     "group": "몬스타엑스",
     "sort": "몬뭉치엑스",
     "member": "아이엠",
@@ -124,6 +124,60 @@
     "sort": "몬뭉치엑스 미니",
     "member": "기현",
     "description": "상어 탈을 쓰고 있는 햄스터 인형이다.  본명(상품명)은 '햄상이&햄슥이'이지만 팬들은 햄상슥이라 부른다. ver.1과 달라진 점은 본체와 탈이 분리가 되는 것인데, 다른 멤버들의 인형과 다르게 탈을 고정시키는 부분이 없고 밑이 뻥 뚫린 형태라 그냥 쑥 빠져버린다. 본체는 ver.2의 탄생으로 사라진 햄슥이 인형과 똑같이 생겼으나, 크기가 조금 작다."
+  },
+  {
+    "id": "mx_baetong_mm",
+    "title": "배통이",
+    "thumbnail": "/dollcollector/images/mx_baetong_mm.jpg",
+    "group": "몬스타엑스",
+    "sort": "몬뭉치엑스 미니미니",
+    "member": "셔누",
+    "description": "몬뭉치엑스 배통이의 미니미니 버전이다. 탈을 벗긴 반달가슴곰 본체만 있다. 이전과 다르게 디자인에 통일감이 생겼다. 10cm보다 조금 작은 크기이다. 각 인형마다 이름 라벨이 붙어있고, 키링형태이다."
+  },
+  {
+    "id": "mx_mungkko_mm",
+    "title": "멍꼬",
+    "thumbnail": "/dollcollector/images/mx_mungkko_mm.jpg",
+    "group": "몬스타엑스",
+    "sort": "몬뭉치엑스 미니미니",
+    "member": "민혁",
+    "description": "몬뭉치엑스 미니미니 버전이다. 탈을 벗긴 강아지 본체만 있다. 이전과 다르게 디자인에 통일감이 생겼다. 10cm보다 조금 작은 크기이다. 각 인형마다 이름 라벨이 붙어있고, 키링형태이다."
+  },
+  {
+    "id": "mx_hamssg_mm",
+    "title": "햄슥이",
+    "thumbnail": "/dollcollector/images/mx_hamssg_mm.jpg",
+    "group": "몬스타엑스",
+    "sort": "몬뭉치엑스 미니미니",
+    "member": "기현",
+    "description": "몬뭉치엑스 미니미니 버전이다. 탈을 벗긴 햄스터 본체만 있다. 이전과 다르게 디자인에 통일감이 생겼다. 10cm보다 조금 작은 크기이다. 각 인형마다 이름 라벨이 붙어있고, 키링형태이다."
+  },
+  {
+    "id": "mx_chaeboogi_mm",
+    "title": "채부기",
+    "thumbnail": "/dollcollector/images/mx_chaeboogi_mm.jpg",
+    "group": "몬스타엑스",
+    "sort": "몬뭉치엑스 미니미니",
+    "member": "형원",
+    "description": "몬뭉치엑스 미니미니 버전이다. 탈을 벗긴 거북이 본체만 있다. 다른 미니미니 인형들과는 달리 거북이 등딱지가 붙어있다. 이전과 다르게 디자인에 통일감이 생겼다. 10cm보다 조금 작은 크기이다. 각 인형마다 이름 라벨이 붙어있고, 키링형태이다."
+  },
+  {
+    "id": "mx_manraeng_mm",
+    "title": "만랭",
+    "thumbnail": "/dollcollector/images/mx_manraeng_mm.jpg",
+    "group": "몬스타엑스",
+    "sort": "몬뭉치엑스 미니미니",
+    "member": "주헌",
+    "description": "몬뭉치엑스 미니미니 버전이다. 탈을 벗긴 만두 본체만 있다. 이전과 다르게 디자인에 통일감이 생겼다. 10cm보다 조금 작은 크기이다. 각 인형마다 이름 라벨이 붙어있고, 키링형태이다."
+  },
+  {
+    "id": "mx_nyangkyun_mm",
+    "title": "냥균",
+    "thumbnail": "/dollcollector/images/mx_nyangkyun_mm.jpg",
+    "group": "몬스타엑스",
+    "sort": "몬뭉치엑스 미니미니",
+    "member": "아이엠",
+    "description": "몬뭉치엑스 미니미니 버전이다. 탈을 벗긴 검은 고양이 본체만 있다. 이전과 다르게 디자인에 통일감이 생겼다. 10cm보다 조금 작은 크기이다. 각 인형마다 이름 라벨이 붙어있고, 키링형태이다."
   },
   {
     "id": "bnd_catppi",
