@@ -118,13 +118,20 @@
 .contents > p span {
   color: #a6a6a6;
 }
-
+.contents .sort {
+  color: #b18ec2;
+}
 /* 상세페이지 */
 .detail-wrap {
-  margin: 3vw;
+  margin: 3vw auto;
   padding: 2vw;
   background: #fff;
   border-radius: 15px;
+  max-width: 1050px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .detail-wrap .name {
   font-weight: 600;
@@ -168,7 +175,9 @@
   .thumbnail {
     height: 100px;
   }
-
+  .contents {
+    margin-top: 0;
+  }
   .contents > p {
     font-size: 13px;
   }

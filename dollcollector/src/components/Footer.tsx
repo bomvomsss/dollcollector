@@ -10,6 +10,9 @@ function Footer() {
           <span>(네이버 폼으로 이동합니다)</span>
         </p>
       </a>
+      <p className='ps'>
+        모든 인형에 대한 저작권은 해당 그룹 소속사에 있습니다.
+      </p>
     </div>
   );
 }

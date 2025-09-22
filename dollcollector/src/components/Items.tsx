@@ -49,23 +49,27 @@ function Items({ search }: ItemProps) {
     <div id='items'>
       {sortedGroups.map((group) => (
         <div className='group-wrap' key={group}>
-          <h2>{group}</h2>
+          <h2>
+            {group}{" "}
+            {/* <span className='sort'>
+              {groupedItems[group][0].sort
+                ? ` (${groupedItems[group][0].sort})`
+                : ""}
+            </span> */}
+          </h2>
           <div className='flex-box'>
             {groupedItems[group].map((item) => (
               <Link to={`/item/${item.id}`} key={item.id} className='item'>
                 <p className='title'>{item.title}</p>
                 <div className='thumbnail'>
-                  <img src={item.thumbnail} alt={`인형 사진` + item.title} />
+                  <img src={item.thumbnail} alt={item.title + ` 사진`} />
                 </div>
                 <div className='contents'>
                   {/* <p className='group'>
                     <span>그룹 : </span>
                     {item.group}
                   </p> */}
-                  <p className='sort'>
-                    {/* <span>명칭 : </span> */}
-                    {item.sort}
-                  </p>
+                  <p className='sort'>{item.sort}</p>
                   <p className='member'>
                     {/* <span>멤버 : </span> */}
                     {item.member}
