@@ -114,6 +114,7 @@
 .contents {
   line-height: 1.5;
   margin-top: 10px;
+  width: 100%;
 }
 .contents > p span {
   color: #a6a6a6;
