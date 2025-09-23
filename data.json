@@ -835,5 +835,77 @@
     "sort": "온꼬미즈",
     "member": "효진",
     "description": "효진의 중학교 때 별명인 노루와 먹짱 캐릭터에서 온 야미를 엮어서 만들어졌고 뿔이 숟가락과 포크로 되어있는 것이 특징이다. 볼에 점3개가 있다."
+  },
+  {
+    "id": "ateez_jjungrami",
+    "title": "쭝라미",
+    "thumbnail": "/dollcollector/images/ateez_jjungrami.jpg",
+    "group": "에이티즈",
+    "sort": "애니티즈",
+    "member": "홍중",
+    "description": "몸통만큼 큰 꼬리가 인상적이다."
+  },
+  {
+    "id": "ateez_ddungbyuli",
+    "title": "떵별이",
+    "thumbnail": "/dollcollector/images/ateez_ddungbyuli.jpg",
+    "group": "에이티즈",
+    "sort": "애니티즈",
+    "member": "성화",
+    "description": ""
+  },
+  {
+    "id": "ateez_tyudungi",
+    "title": "튜덩이",
+    "thumbnail": "/dollcollector/images/ateez_tyudungi.jpg",
+    "group": "에이티즈",
+    "sort": "애니티즈",
+    "member": "윤호",
+    "description": ""
+  },
+  {
+    "id": "ateez_hetmongi",
+    "title": "헷몽이",
+    "thumbnail": "/dollcollector/images/ateez_hetmongi.jpg",
+    "group": "에이티즈",
+    "sort": "애니티즈",
+    "member": "여상",
+    "description": ""
+  },
+  {
+    "id": "ateez_sanducki",
+    "title": "산덕이",
+    "thumbnail": "/dollcollector/images/ateez_sanducki.jpg",
+    "group": "에이티즈",
+    "sort": "애니티즈",
+    "member": "산",
+    "description": "엉덩이에 하트가 그려져있다."
+  },
+  {
+    "id": "ateez_bbyongmingi",
+    "title": "뿅밍이",
+    "thumbnail": "/dollcollector/images/ateez_bbyongmingi.jpg",
+    "group": "에이티즈",
+    "sort": "애니티즈",
+    "member": "민기",
+    "description": "뾰로통하게 튀어나온 입술이 매력적이다."
+  },
+  {
+    "id": "ateez_woyonyang",
+    "title": "우요냥",
+    "thumbnail": "/dollcollector/images/ateez_woyonyang.jpg",
+    "group": "에이티즈",
+    "sort": "애니티즈",
+    "member": "우영",
+    "description": ""
+  },
+  {
+    "id": "ateez_jjongbear",
+    "title": "쫑베어",
+    "thumbnail": "/dollcollector/images/ateez_jjongbear.jpg",
+    "group": "에이티즈",
+    "sort": "애니티즈",
+    "member": "종호",
+    "description": ""
   }
 ]
