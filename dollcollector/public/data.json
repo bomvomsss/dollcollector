@@ -237,7 +237,7 @@
     "id": "nct127_johnycal",
     "title": "쟈니칼",
     "thumbnail": "/dollcollector/images/nct127_johnycal.jpg",
-    "group": "엔시티127",
+    "group": "엔시티 127",
     "sort": "솜뭉칠",
     "member": "쟈니",
     "description": "쟈니와 카라칼이라는 동물이 닮았다는 점에서 고안된 인형. 이름은 쟈니 + 카라칼을 합쳐 만들었다."
@@ -246,7 +246,7 @@
     "id": "nct127_cherryjjang",
     "title": "체리짱",
     "thumbnail": "/dollcollector/images/nct127_cherryjjang.jpg",
-    "group": "엔시티127",
+    "group": "엔시티 127",
     "sort": "솜뭉칠",
     "member": "유타",
     "description": "유타의 대표 이모지인 '체리'와 '악마'를 형상화한 인형이다."
@@ -255,7 +255,7 @@
     "id": "nct127_dogoonpang",
     "title": "도궁빵",
     "thumbnail": "/dollcollector/images/nct127_dogoonpang.jpg",
-    "group": "엔시티127",
+    "group": "엔시티 127",
     "sort": "솜뭉칠",
     "member": "도영",
     "description": "도영과 도영의 대표 포즈인 아궁빵(aka 아기 궁뎅이 빵)을 합친 이름이다."
@@ -264,7 +264,7 @@
     "id": "nct127_busydog",
     "title": "비지독",
     "thumbnail": "/dollcollector/images/nct127_busydog.jpg",
-    "group": "엔시티127",
+    "group": "엔시티 127",
     "sort": "솜뭉칠",
     "member": "정우",
     "description": "비지독은 정우의 랩네임이다. NCT127 AY-YO 자컨에서 처음 유래되었다."
@@ -273,7 +273,7 @@
     "id": "nct127_coongi",
     "title": "크옹이",
     "thumbnail": "/dollcollector/images/nct127_coongi.jpg",
-    "group": "엔시티127",
+    "group": "엔시티 127",
     "sort": "솜뭉칠",
     "member": "마크",
     "description": "마크와 애옹을 합친 이름. 마크의 대표 동물 이모지인 호랑이를 형상화한 인형이다."
@@ -282,7 +282,7 @@
     "id": "nct127_haepoo",
     "title": "해푸",
     "thumbnail": "/dollcollector/images/nct127_haepoo.jpg",
-    "group": "엔시티127",
+    "group": "엔시티 127",
     "sort": "솜뭉칠",
     "member": "해찬",
     "description": "원래 해찬이 밀었던 이름은 '햇끼(해찬이 새끼)'였으나, 어감 이슈로 '해푸'로 네이밍 되었다. 해찬 공식 인형들을 모아보면 점점 오버쿠킹 된다는 후일담이 있다."
@@ -392,6 +392,60 @@
     "thumbnail": "/dollcollector/images/riize_mungryongi.jpg",
     "group": "라이즈",
     "sort": "",
+    "member": "앤톤",
+    "description": ""
+  },
+  {
+    "id": "riize_rizco_long",
+    "title": "리즈코",
+    "thumbnail": "/dollcollector/images/riize_rizco_long.jpg",
+    "group": "라이즈",
+    "sort": "롱버전",
+    "member": "쇼타로",
+    "description": ""
+  },
+  {
+    "id": "riize_songyongdori_long",
+    "title": "송용돌이",
+    "thumbnail": "/dollcollector/images/riize_songyongdori_long.jpg",
+    "group": "라이즈",
+    "sort": "롱버전",
+    "member": "은석",
+    "description": ""
+  },
+  {
+    "id": "riize_woorakbam_long",
+    "title": "우락밤",
+    "thumbnail": "/dollcollector/images/riize_woorakbam_long.jpg",
+    "group": "라이즈",
+    "sort": "롱버전",
+    "member": "성찬",
+    "description": ""
+  },
+  {
+    "id": "riize_tonyangduck_long",
+    "title": "토냥덕",
+    "thumbnail": "/dollcollector/images/riize_tonyangduck_long.jpg",
+    "group": "라이즈",
+    "sort": "롱버전",
+    "member": "원빈",
+    "description": ""
+  },
+  {
+    "id": "riize_tollbyeongi_long",
+    "title": "똘병이",
+    "thumbnail": "/dollcollector/images/riize_tollbyeongi_long.jpg",
+    "group": "라이즈",
+    "sort": "롱버전",
+    "member": "소희",
+    "description": "다른 멤버들의 인형과 다르게 머리가 길어져있다."
+  },
+  {
+    "id": "riize_mungryongi_long",
+    "title": "멍룡이",
+    "thumbnail": "/dollcollector/images/riize_mungryongi_long.jpg",
+    "group": "라이즈",
+    "sort": "롱버전",
     "member": "앤톤",
     "description": ""
   },
@@ -700,5 +754,59 @@
     "sort": "미니틴",
     "member": "디노",
     "description": "디노의 본명인 이찬과 수달을 합친 이름이다. 수달 백성들을 지도하는 왕이다."
+  },
+  {
+    "id": "btob_haetnyangi",
+    "title": "햇냥이",
+    "thumbnail": "/dollcollector/images/btob_haetnyangi.jpg",
+    "group": "비투비",
+    "sort": "삐프렌즈",
+    "member": "서은광",
+    "description": "향기 연구원"
+  },
+  {
+    "id": "btob_atuh",
+    "title": "아토",
+    "thumbnail": "/dollcollector/images/btob_atuh.jpg",
+    "group": "비투비",
+    "sort": "삐프렌즈",
+    "member": "이민혁",
+    "description": "세탁 연구원"
+  },
+  {
+    "id": "btob_rangkomi",
+    "title": "랑꼬미",
+    "thumbnail": "/dollcollector/images/btob_rangkomi.jpg",
+    "group": "비투비",
+    "sort": "삐프렌즈",
+    "member": "임현식",
+    "description": "거품 연구원"
+  },
+  {
+    "id": "btob_ppeumong",
+    "title": "쁘멍",
+    "thumbnail": "/dollcollector/images/btob_ppeumong.jpg",
+    "group": "비투비",
+    "sort": "삐프렌즈",
+    "member": "프니엘",
+    "description": "수면 연구원"
+  },
+  {
+    "id": "nflying_jigomi",
+    "title": "지곰이",
+    "thumbnail": "/dollcollector/images/nflying_jigomi.jpg",
+    "group": "엔플라잉",
+    "sort": "",
+    "member": "이승협",
+    "description": "'지켜줄곰'이라는 뜻으로, 이승협이 직접 빚은(?) 캐립터이다."
+  },
+  {
+    "id": "nflying_hamangi",
+    "title": "하망이",
+    "thumbnail": "/dollcollector/images/nflying_hamangi.jpg",
+    "group": "엔플라잉",
+    "sort": "",
+    "member": "유회승",
+    "description": "회승의 개인 유튜브 채널인 '하루의 마무리'를 줄인 '하마'를 모티브로 만든 캐릭터이다."
   }
 ]
