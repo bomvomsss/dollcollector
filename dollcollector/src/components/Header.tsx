@@ -58,13 +58,15 @@ function Header({ search, setSearch }: HeaderProps) {
         </button>
       ) : (
         <div className='search'>
-          <input
-            type='text'
-            placeholder='인형 검색'
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            name='search-input'
-          />
+          <span className='input-wrap'>
+            <input
+              type='text'
+              placeholder='인형 검색'
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+              name='search-input'
+            />
+          </span>
           <button type='submit'>검색</button>
         </div>
       )}
