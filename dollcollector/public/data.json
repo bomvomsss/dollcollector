@@ -175,9 +175,18 @@
     "title": "냥균",
     "thumbnail": "/dollcollector/images/mx_nyangkyun_mm.jpg",
     "group": "몬스타엑스",
+    "sort": "",
+    "member": "아이엠",
+    "description": ""
+  },
+  {
+    "id": "mx_yungkyun",
+    "title": "융균",
+    "thumbnail": "/dollcollector/images/mx_yungkyun.jpg",
+    "group": "몬스타엑스",
     "sort": "몬뭉치엑스 미니미니",
     "member": "아이엠",
-    "description": "몬뭉치엑스 미니미니 버전이다. 탈을 벗긴 검은 고양이 본체만 있다. 이전과 다르게 디자인에 통일감이 생겼다. 10cm보다 조금 작은 크기이다. 각 인형마다 이름 라벨이 붙어있고, 키링형태이다."
+    "description": "키링 형태의 까만 고양이 인형이다. 버블에서 뭔가 작은 잘못하고 아무렇지 않고 귀여운 내 얼굴이나 봐라 같은 의미의 ㅇㅠㅇ라는 설명을 한 적이 있다."
   },
   {
     "id": "bnd_catppi",
@@ -906,6 +915,78 @@
     "group": "에이티즈",
     "sort": "애니티즈",
     "member": "종호",
+    "description": ""
+  },
+  {
+    "id": "skz_wolfchan",
+    "title": "울프찬",
+    "thumbnail": "/dollcollector/images/skz_wolfchan.jpg",
+    "group": "스트레이키즈",
+    "sort": "스키주",
+    "member": "방찬",
+    "description": ""
+  },
+  {
+    "id": "skz_ribbit",
+    "title": "리빗",
+    "thumbnail": "/dollcollector/images/skz_ribbit.jpg",
+    "group": "스트레이키즈",
+    "sort": "스키주",
+    "member": "리노",
+    "description": ""
+  },
+  {
+    "id": "skz_dwaekki",
+    "title": "돼끼",
+    "thumbnail": "/dollcollector/images/skz_dwaekki.jpg",
+    "group": "스트레이키즈",
+    "sort": "스키주",
+    "member": "창빈",
+    "description": ""
+  },
+  {
+    "id": "skz_jinirat",
+    "title": "지니렛",
+    "thumbnail": "/dollcollector/images/skz_jinirat.jpg",
+    "group": "스트레이키즈",
+    "sort": "스키주",
+    "member": "현진",
+    "description": ""
+  },
+  {
+    "id": "skz_hanquokka",
+    "title": "한쿼카",
+    "thumbnail": "/dollcollector/images/skz_hanquokka.jpg",
+    "group": "스트레이키즈",
+    "sort": "스키주",
+    "member": "한",
+    "description": ""
+  },
+  {
+    "id": "skz_bbokari",
+    "title": "뽁아리",
+    "thumbnail": "/dollcollector/images/skz_bbokari.jpg",
+    "group": "스트레이키즈",
+    "sort": "스키주",
+    "member": "필릭스",
+    "description": ""
+  },
+  {
+    "id": "skz_puppim",
+    "title": "퍼핌",
+    "thumbnail": "/dollcollector/images/skz_puppim.jpg",
+    "group": "스트레이키즈",
+    "sort": "스키주",
+    "member": "승민",
+    "description": ""
+  },
+  {
+    "id": "skz_foxini",
+    "title": "폭시니",
+    "thumbnail": "/dollcollector/images/skz_foxini.jpg",
+    "group": "스트레이키즈",
+    "sort": "스키주",
+    "member": "아이엔",
     "description": ""
   }
 ]
