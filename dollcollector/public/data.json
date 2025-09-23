@@ -988,5 +988,68 @@
     "sort": "스키주",
     "member": "아이엔",
     "description": ""
+  },
+  {
+    "id": "dreamcatcher_jyuraesa",
+    "title": "쥬래사",
+    "thumbnail": "/dollcollector/images/dreamcatcher_jyuraesa.jpg",
+    "group": "드림캐쳐",
+    "sort": "미니캐쳐",
+    "member": "지유",
+    "description": ""
+  },
+  {
+    "id": "dreamcatcher_pokonyang",
+    "title": "뽀코냥",
+    "thumbnail": "/dollcollector/images/dreamcatcher_pokonyang.jpg",
+    "group": "드림캐쳐",
+    "sort": "미니캐쳐",
+    "member": "수아",
+    "description": ""
+  },
+  {
+    "id": "dreamcatcher_singwaegi",
+    "title": "싱외기",
+    "thumbnail": "/dollcollector/images/dreamcatcher_singwaegi.jpg",
+    "group": "드림캐쳐",
+    "sort": "미니캐쳐",
+    "member": "싱외기",
+    "description": ""
+  },
+  {
+    "id": "dreamcatcher_dunyangi",
+    "title": "두냥이",
+    "thumbnail": "/dollcollector/images/dreamcatcher_dunyangi.jpg",
+    "group": "드림캐쳐",
+    "sort": "미니캐쳐",
+    "member": "한동",
+    "description": ""
+  },
+  {
+    "id": "dreamcatcher_munghyuni",
+    "title": "멍현이",
+    "thumbnail": "/dollcollector/images/dreamcatcher_munghyuni.jpg",
+    "group": "드림캐쳐",
+    "sort": "미니캐쳐",
+    "member": "유현",
+    "description": ""
+  },
+  {
+    "id": "dreamcatcher_pandam",
+    "title": "판담",
+    "thumbnail": "/dollcollector/images/dreamcatcher_pandam.jpg",
+    "group": "드림캐쳐",
+    "sort": "미니캐쳐",
+    "member": "다미",
+    "description": ""
+  },
+  {
+    "id": "dreamcatcher_gattongi",
+    "title": "가똥이",
+    "thumbnail": "/dollcollector/images/dreamcatcher_gattongi.jpg",
+    "group": "드림캐쳐",
+    "sort": "미니캐쳐",
+    "member": "가현",
+    "description": ""
   }
 ]
