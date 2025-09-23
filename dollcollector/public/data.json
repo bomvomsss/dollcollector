@@ -693,6 +693,15 @@
     "description": "전복의 2행시로 전원우, 복덩어리와 여우를 합친 이름이다. 보라빛이 도는 회색의 털을 가지고 있으며, 안경을 착용하고 있는데 탈부착이 가능하다. 꼬리가 6개이며 호기심이 많다."
   },
   {
+    "id": "svt_tamtam",
+    "title": "탐탐",
+    "thumbnail": "/dollcollector/images/svt_tamtam.jpg",
+    "group": "세븐틴",
+    "sort": "미니틴",
+    "member": "호시",
+    "description": "호시탐탐이라는 사자성어가 이름의 유래이며, 호랑이가 모티브이다. 똥배가 나왔고 복이 들어온다. 원래는 복주머니가 있었으나 호시가 햄스터 같다고 뺀 것이다."
+  },
+  {
     "id": "svt_bbyopuli",
     "title": "뾰풀이",
     "thumbnail": "/dollcollector/images/svt_bbyopuli.jpg",
@@ -808,5 +817,23 @@
     "sort": "",
     "member": "유회승",
     "description": "회승의 개인 유튜브 채널인 '하루의 마무리'를 줄인 '하마'를 모티브로 만든 캐릭터이다."
+  },
+  {
+    "id": "onoff_warilla",
+    "title": "와릴라",
+    "thumbnail": "/dollcollector/images/onoff_warilla.jpg",
+    "group": "온앤오프",
+    "sort": "온꼬미즈",
+    "member": "와이엇",
+    "description": "와이엇의 모에화인 고릴라 인형이다. 이름인 와이엇과 고릴라를 합쳐 와릴라라는 이름이 지어졌다."
+  },
+  {
+    "id": "onoff_noyami",
+    "title": "노얌이",
+    "thumbnail": "/dollcollector/images/onoff_noyami.jpg",
+    "group": "온앤오프",
+    "sort": "온꼬미즈",
+    "member": "효진",
+    "description": "효진의 중학교 때 별명인 노루와 먹짱 캐릭터에서 온 야미를 엮어서 만들어졌고 뿔이 숟가락과 포크로 되어있는 것이 특징이다. 볼에 점3개가 있다."
   }
 ]
