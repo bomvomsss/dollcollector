@@ -36,13 +36,49 @@
     "description": "데니멀즈라는 이름의 인형들 중 데이식스 멤버 도운의 인형이다. 데니멀즈는 출시 후 매 년 다른 외형(표정, 이목구비 비율 등)으로 나와 팬들 사이에서 연도 별 버전으로 나뉘어 구별된다. '돈'의 경우, 2020 버전에서 이목구비 비율의 참사로 '돈구라'라는 별명을 얻기도 했었다. '케'와 마찬가지로 2022년 버전에서 본체 도운의 특징인 눈 밑의 점이 추가되었다."
   },
   {
+    "id": "day6_bang_petit2021",
+    "title": "방",
+    "thumbnail": "/dollcollector/images/day6_bang_petit2021.jpg",
+    "group": "데이식스",
+    "sort": "쁘띠멀즈",
+    "member": "성진",
+    "description": "2021년에 나왔던 첫 쁘띠멀즈이다. 데니멀즈의 아기버전이라 생각하면 된다."
+  },
+  {
+    "id": "day6_ke_petit2021",
+    "title": "케",
+    "thumbnail": "/dollcollector/images/day6_ke_petit2021.jpg",
+    "group": "데이식스",
+    "sort": "쁘띠멀즈",
+    "member": "영케이",
+    "description": "2021년에 나왔던 첫 쁘띠멀즈이다. 데니멀즈의 아기버전이라 생각하면 된다."
+  },
+  {
+    "id": "day6_pil_petit2021",
+    "title": "필",
+    "thumbnail": "/dollcollector/images/day6_pil_petit2021.jpg",
+    "group": "데이식스",
+    "sort": "쁘띠멀즈",
+    "member": "원필",
+    "description": "2021년에 나왔던 첫 쁘띠멀즈이다. 데니멀즈의 아기버전이라 생각하면 된다. 한 쪽 귀가 접혀있다."
+  },
+  {
+    "id": "day6_don_petit2021",
+    "title": "돈",
+    "thumbnail": "/dollcollector/images/day6_don_petit2021.jpg",
+    "group": "데이식스",
+    "sort": "쁘띠멀즈",
+    "member": "도운",
+    "description": "2021년에 나왔던 첫 쁘띠멀즈이다. 데니멀즈의 아기버전이라 생각하면 된다. 돈은 유일하게 뽀글이털에, 눈 밑 점이 있다."
+  },
+  {
     "id": "day6_bang_petit",
     "title": "방",
     "thumbnail": "/dollcollector/images/day6_bang_petit.jpg",
     "group": "데이식스",
     "sort": "쁘띠멀즈",
     "member": "성진",
-    "description": "데니멀즈의 아기버전이다."
+    "description": "2021년 쁘띠멀즈 이후에 나온 서있는 쁘띠멀즈이다. 이후에 자석이 들어있는 쁘띠멀즈, 안는 모양의 쁘띠멀즈 등 다양한 버전이 나오고 있다."
   },
   {
     "id": "day6_ke_petit",
@@ -51,7 +87,7 @@
     "group": "데이식스",
     "sort": "쁘띠멀즈",
     "member": "영케이",
-    "description": "데니멀즈의 아기버전이다."
+    "description": "2021년 쁘띠멀즈 이후에 나온 서있는 쁘띠멀즈이다. 이후에 자석이 들어있는 쁘띠멀즈, 안는 모양의 쁘띠멀즈 등 다양한 버전이 나오고 있다."
   },
   {
     "id": "day6_pil_petit",
@@ -60,7 +96,7 @@
     "group": "데이식스",
     "sort": "쁘띠멀즈",
     "member": "원필",
-    "description": "데니멀즈의 아기버전이다."
+    "description": "2021년 쁘띠멀즈 이후에 나온 서있는 쁘띠멀즈이다. 이후에 자석이 들어있는 쁘띠멀즈, 안는 모양의 쁘띠멀즈 등 다양한 버전이 나오고 있다."
   },
   {
     "id": "day6_don_petit",
@@ -69,7 +105,7 @@
     "group": "데이식스",
     "sort": "쁘띠멀즈",
     "member": "도운",
-    "description": "데니멀즈의 아기버전이다."
+    "description": "2021년 쁘띠멀즈 이후에 나온 서있는 쁘띠멀즈이다. 이후에 자석이 들어있는 쁘띠멀즈, 안는 모양의 쁘띠멀즈 등 다양한 버전이 나오고 있다."
   },
   {
     "id": "mx_baetong",
