@@ -57,6 +57,7 @@ h1 {
   background: none;
   font-size: 30px;
   cursor: pointer;
+  color: #000;
 }
 .tooltip-wrap {
   position: relative;
@@ -129,7 +130,7 @@ h1 {
     margin-left: 0;
   }
   .tooltip-popup {
-    left: clamp(-100px, -27vw, -27vw);
+    left: clamp(-83px, -27vw, -27vw);
     width: 85vw;
     padding: 30px;
     box-sizing: border-box;

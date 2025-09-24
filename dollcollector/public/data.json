@@ -1175,7 +1175,7 @@
     "thumbnail": "/dollcollector/images/dreamcatcher_singwaegi.jpg",
     "group": "드림캐쳐",
     "sort": "미니캐쳐",
-    "member": "싱외기",
+    "member": "시연",
     "description": ""
   },
   {
@@ -1302,6 +1302,96 @@
     "group": "제로베이스원",
     "sort": "제로니",
     "member": "리키",
+    "description": ""
+  },
+  {
+    "id": "cravity_woolpi",
+    "title": "울피",
+    "thumbnail": "/dollcollector/images/cravity_woolpi.jpg",
+    "group": "크래비티",
+    "sort": "크크루",
+    "member": "세림",
+    "description": ""
+  },
+  {
+    "id": "cravity_queeni",
+    "title": "귄이",
+    "thumbnail": "/dollcollector/images/cravity_queeni.jpg",
+    "group": "크래비티",
+    "sort": "크크루",
+    "member": "앨런",
+    "description": ""
+  },
+  {
+    "id": "cravity_rangmo",
+    "title": "랑모",
+    "thumbnail": "/dollcollector/images/cravity_rangmo.jpg",
+    "group": "크래비티",
+    "sort": "크크루",
+    "member": "정모",
+    "description": ""
+  },
+  {
+    "id": "cravity_wookka",
+    "title": "우카",
+    "thumbnail": "/dollcollector/images/cravity_woolpi.jpg",
+    "group": "크래비티",
+    "sort": "크크루",
+    "member": "우빈",
+    "description": ""
+  },
+  {
+    "id": "cravity_dakong",
+    "title": "다콩",
+    "thumbnail": "/dollcollector/images/cravity_dakong.jpg",
+    "group": "크래비티",
+    "sort": "크크루",
+    "member": "원진",
+    "description": ""
+  },
+  {
+    "id": "cravity_gangmong",
+    "title": "강몽이",
+    "thumbnail": "/dollcollector/images/cravity_gangmong.jpg",
+    "group": "크래비티",
+    "sort": "크크루",
+    "member": "민희",
+    "description": ""
+  },
+  {
+    "id": "cravity_woolpi",
+    "title": "울피",
+    "thumbnail": "/dollcollector/images/cravity_woolpi.jpg",
+    "group": "크래비티",
+    "sort": "크크루",
+    "member": "세림",
+    "description": ""
+  },
+  {
+    "id": "cravity_teori",
+    "title": "터리",
+    "thumbnail": "/dollcollector/images/cravity_teori.jpg",
+    "group": "크래비티",
+    "sort": "크크루",
+    "member": "형준",
+    "description": ""
+  },
+  {
+    "id": "cravity_yongt",
+    "title": "용티",
+    "thumbnail": "/dollcollector/images/cravity_yongt.jpg",
+    "group": "크래비티",
+    "sort": "크크루",
+    "member": "태영",
+    "description": ""
+  },
+  {
+    "id": "cravity_tommy",
+    "title": "토미",
+    "thumbnail": "/dollcollector/images/cravity_tommy.jpg",
+    "group": "크래비티",
+    "sort": "크크루",
+    "member": "성민",
     "description": ""
   }
 ]
