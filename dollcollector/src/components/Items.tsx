@@ -41,22 +41,36 @@ function Items({ search }: ItemProps) {
     },
     {}
   );
-  // 그룹명을 가나다 순으로 정렬
-  const sortedGroups = Object.keys(groupedItems).sort((a, b) =>
-    a.localeCompare(b, "ko")
-  );
+
+  const sortedGroups = Object.keys(groupedItems).sort((a, b) => {
+    const aIsKorean = /[ㄱ-ㅎㅏ-ㅣ가-힣]/.test(a);
+    const bIsKorean = /[ㄱ-ㅎㅏ-ㅣ가-힣]/.test(b);
+
+    if (aIsKorean && !bIsKorean) {
+      return -1; // a가 한글이고 b가 한글이 아니면 a를 먼저 정렬
+    }
+    if (!aIsKorean && bIsKorean) {
+      return 1; // b가 한글이고 a가 한글이 아니면 b를 먼저 정렬
+    }
+
+    const aIsNumber = /^[0-9]/.test(a);
+    const bIsNumber = /^[0-9]/.test(b);
+
+    if (aIsNumber && !bIsNumber) {
+      return 1; // a가 숫자이고 b가 숫자가 아니면 b를 먼저 정렬
+    }
+    if (!aIsNumber && bIsNumber) {
+      return -1; // b가 숫자이고 a가 숫자가 아니면 a를 먼저 정렬
+    }
+
+    return a.localeCompare(b, "ko"); // 둘 다 한글이거나 둘 다 한글이 아니면 localeCompare로 정렬
+  });
+
   return (
     <div id='items'>
       {sortedGroups.map((group) => (
         <div className='group-wrap' key={group}>
-          <h2>
-            {group}
-            {/* <span className='sort'>
-              {groupedItems[group][0].sort
-                ? ` (${groupedItems[group][0].sort})`
-                : ""}
-            </span> */}
-          </h2>
+          <h2>{group}</h2>
           <div className='flex-box'>
             {groupedItems[group].map((item) => (
               <Link to={`/item/${item.id}`} key={item.id} className='item'>
@@ -65,15 +79,8 @@ function Items({ search }: ItemProps) {
                   <img src={item.thumbnail} alt={item.title + ` 사진`} />
                 </div>
                 <div className='contents'>
-                  {/* <p className='group'>
-                    <span>그룹 : </span>
-                    {item.group}
-                  </p> */}
                   <p className='sort'>{item.sort}</p>
-                  <p className='member'>
-                    {/* <span>멤버 : </span> */}
-                    {item.member}
-                  </p>
+                  <p className='member'>{item.member}</p>
                 </div>
               </Link>
             ))}
